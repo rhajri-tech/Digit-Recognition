@@ -1,0 +1,20 @@
+
+This Project is done with Support Vector Machine on (Hand Written Digits Recognition) .
+
+__________________________________________________________________
+
+** ABOUT DATASET **
+
+- This is mini digit recognition dataset which have 1797 images with shape 8 by 8 from numbers 0 to 9.
+
+
+** ABOUT MODEL **
+
+- I used machine learning SVM approach for this problem as it is so powerful model and can handle large datasets with high accuracy.
+
+- The model is trained and tested on seperate sets and has the ability to predict the hand written digit from 0 upto 9 with over 99% accuracy.
+
+- Make sure you have installed all the essentail libraries which is imported in project so you can run the program smoothly. (Sklearn, Numpy, Matplotlib)
+
+
+  
